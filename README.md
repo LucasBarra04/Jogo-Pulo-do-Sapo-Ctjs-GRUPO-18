@@ -2,8 +2,6 @@
 
 Jogo de plataforma 2D feito com ct.js 5.3.1. O Sapo Ninja precisa recuperar as moedas de ouro da Lagoa Esmeralda, roubadas pelo bando do Rei Porco, atravessando cinco fases.
 
-Jogue online: [link]
-
 ## Como jogar
 
 Chegue à saída de cada fase e colete moedas. Você começa com 3 vidas. Espinhos, água e porcos (tocados pelo lado) tiram uma vida; pule em cima dos porcos para derrotá-los. Checkpoints guardam o progresso e corações devolvem vidas.
@@ -34,16 +32,11 @@ docs/             planejamento das fases e capturas de tela
 
 ## Equipe
 
-[Nome], [Nome], [Nome]
+Bernardo Souza Siqueira, Lucas Barra Machado, Lucas Pereira Mello e Thiago Prata de Figueredo
 
 ## Créditos
 
 - Tiles: Simplified Platformer Pack, Kenney (CC0).
-- Sapo, porco e moeda: [autor e licença].
-- Logo, fundos e imagem da história: geradas por IA [ferramenta].
+- Logo, fundos e imagem da história: geradas por IA (Gemini, Google).
 - Músicas (Menu_music, Fase_music, Fim_music): geradas por IA (Gemini, Google).
 - Base do jogo: tutorial Making Games: Platformer, da documentação do ct.js.
-
-## Licença
-
-[licença]
