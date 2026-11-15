@@ -1,0 +1,14 @@
+# ct.js
+JogoTeste2/trash/
+*.ict.bak
+*.bak
+backups/
+
+# Build web: vai na Release (ou na branch gh-pages), não na branch principal
+build/
+Pulo_do_Sapo/
+Pulo_do_Sapo.zip
+
+# Sistema
+.DS_Store
+Thumbs.db
