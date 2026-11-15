@@ -15,7 +15,7 @@ Chegue à saída de cada fase e colete moedas. Você começa com 3 vidas. Espinh
 ## Como executar
 
 1. Instale o ct.js 5.3.1 (https://ctjs.rocks/).
-2. Clone o repositório: `git clone [url]`
+2. Clone o repositório: `git clone (https://github.com/LucasBarra04/Jogo-Pulo-do-Sapo-Ctjs-GRUPO-18)`
 3. No ct.js, abra o arquivo `JogoTeste2.ict` e clique em Iniciar.
 
 Windows: baixe `Pulo_do_Sapo_Windows.zip` em Releases, extraia e execute `Pulo do Sapo.exe`. Se a tela ficar branca, execute como administrador o script `Run as admin to fix white screen.ps1`, da mesma pasta.
