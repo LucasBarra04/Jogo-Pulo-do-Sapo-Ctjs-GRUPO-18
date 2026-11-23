@@ -18,7 +18,8 @@ Chegue à saída de cada fase e colete moedas. Você começa com 3 vidas. Espinh
 2. Clone o repositório: `git clone (https://github.com/LucasBarra04/Jogo-Pulo-do-Sapo-Ctjs-GRUPO-18)`
 3. No ct.js, abra o arquivo `JogoTeste2.ict` e clique em Iniciar.
 
-Windows: baixe `Pulo_do_Sapo_Windows.zip` em Releases, extraia e execute `Pulo do Sapo.exe`. Se a tela ficar branca, execute como administrador o script `Run as admin to fix white screen.ps1`, da mesma pasta.
+Windows: baixe `Pulo.do.Sapo-win-x64.zip` em Releases, extraia e execute `Pulo do Sapo.exe`. Se a tela ficar branca, execute como administrador o script `Run as admin to fix white screen.ps1`, da mesma pasta.
+Também foram disponíbilizadas builds destinadas a Linux (`Pulo.do.Sapo-linux-x64`) e Mac (`Pulo.do.Sapo-mac-universal`), cujo o grupo não pode testar.
 
 Build web: precisa de um servidor web (abrir o index.html com duplo clique não funciona). Use o link online acima ou, em Releases, baixe `Pulo_do_Sapo.zip`, extraia e rode dentro da pasta `python -m http.server 8000` (no Windows, `py -m http.server 8000`). Acesse http://localhost:8000.
 
@@ -27,7 +28,6 @@ Build web: precisa de um servidor web (abrir o index.html com duplo clique não 
 ```
 JogoTeste2.ict    projeto do ct.js
 JogoTeste2/       texturas e músicas
-docs/             planejamento das fases e capturas de tela
 ```
 
 ## Equipe
